@@ -1,0 +1,3 @@
+FROM nginx
+ENV NODE_VERSION 1.18.0
+
